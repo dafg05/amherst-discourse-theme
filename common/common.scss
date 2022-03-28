@@ -236,7 +236,7 @@ a {
   &.active {
     @include border-radius;
     transition: all 0.3s linear;
-    background: $color-mint;
+    background: $color-purple;
     color: var(--secondary);
     border: 1px solid $color-mint;
   }
