@@ -31,6 +31,7 @@ body:not(.navigation-categories):not(.navigation-topics) #main-outlet {
   height: 300px;
   border-radius: 30px;
   background: $color-square-gradient;
+  background: $color-square-webkit-gradient;
   left: 70px;
   top: 350px;
   transform: rotate(74deg);
