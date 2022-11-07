@@ -63,6 +63,7 @@ input[type="color"]:focus,
     .header-wrapper {
       color: var(--primary);
       // background-color: transparent;
+      @include border-radius;
       .btn-primary {
         display: none;
       }
